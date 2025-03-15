@@ -2,23 +2,23 @@
 
 Submitted by: **Wen-Chung (Andy) Cheng**
 
-**Name of your app** is an app that ... [TODO] 
+**Trivia** is an app that ... [TODO] 
 
-Time spent: **1** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can view the current question and 4 different answers
-- [ ] User can view the next question after tapping an answer
-- [ ] User can answer at least 3 different questions
+- [x] User can view the current question and 4 different answers
+- [x] User can view the next question after tapping an answer
+- [x] User can answer at least 3 different questions
 
 
 The following **optional** features are implemented:
 
-- [ ] User can use the vertical orientation of the app on any device
-- [ ] User can track the question they are on and how many questions are left
+- [x] User can use the vertical orientation of the app on any device
+- [x] User can track the question they are on and how many questions are left
 - [ ] User can see how many questions they got correct after answering all questions
 - [ ] User should be able to restart the game after they've finished answering all questions
 
@@ -29,17 +29,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/37a974a71e364044bfdcfafeeafe2877">
-      <p>Simulator - iPhone 16 - 13 March 2025 - Watch Video</p>
+    <a href="https://www.loom.com/share/9dacfa1bd19c47f4ad2fc48c572430a7">
+      <p>Simulator - iPhone 16 - 15 March 2025 - Watch Video</p>
     </a>
-    <a href="https://www.loom.com/share/37a974a71e364044bfdcfafeeafe2877">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/37a974a71e364044bfdcfafeeafe2877-6a03702bb5ada7f1-full-play.gif">
+    <a href="https://www.loom.com/share/9dacfa1bd19c47f4ad2fc48c572430a7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9dacfa1bd19c47f4ad2fc48c572430a7-b44d04f742f2dd47-full-play.gif">
     </a>
-</div>
+  </div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Need to resolve the issue where the button names don't get refreshed correctly after tapping one of the answers
 
 ## License
 
